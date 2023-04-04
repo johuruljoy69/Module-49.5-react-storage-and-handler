@@ -1,0 +1,38 @@
+[
+    {
+      "id": "64200d574fc07e4618433760",
+      "balance": "$3,680.71",
+      "name": "Rachelle Franco",
+      "email": "rachellefranco@shepard.com"
+    },
+    {
+      "id": "64200d5705ba8fd379a59083",
+      "balance": "$2,812.36",
+      "name": "Eloise Vargas",
+      "email": "eloisevargas@shepard.com"
+    },
+    {
+      "id": "64200d57bf9d8339d3b983a7",
+      "balance": "$2,131.14",
+      "name": "Mckinney Blanchard",
+      "email": "mckinneyblanchard@shepard.com"
+    },
+    {
+      "id": "64200d57f0ee660e889ac65c",
+      "balance": "$2,475.23",
+      "name": "Claudette Orr",
+      "email": "claudetteorr@shepard.com"
+    },
+    {
+      "id": "64200d572f930f9a1467f78d",
+      "balance": "$3,785.78",
+      "name": "Conrad Decker",
+      "email": "conraddecker@shepard.com"
+    },
+    {
+      "id": "64200d578221e5856406c88d",
+      "balance": "$1,510.17",
+      "name": "Bettye Booth",
+      "email": "bettyebooth@shepard.com"
+    }
+  ]
